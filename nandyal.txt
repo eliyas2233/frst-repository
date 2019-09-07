@@ -9,7 +9,9 @@ public static void main(String[] args) {
     f.setLayout(null);  
     f.setVisible(true);   
 }  eliyas
-}  keerthi
+
+}  keerti
+
 
 import java.awt.*;  
 import java.awt.event.*;  
