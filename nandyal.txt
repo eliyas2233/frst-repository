@@ -8,7 +8,7 @@ public static void main(String[] args) {
     f.setSize(400,400);  
     f.setLayout(null);  
     f.setVisible(true);   
-}  
+}  eliyas
 }  
 
 import java.awt.*;  
